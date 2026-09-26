@@ -1,0 +1,19 @@
+# 运行时自动生成的工作目录（工具链 / 工程 / APK / 缓存）
+workspace/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 日志与崩溃转储
+crash.log
+*.log
+
+# 系统/编辑器
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
